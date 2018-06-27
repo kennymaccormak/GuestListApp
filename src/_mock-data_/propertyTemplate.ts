@@ -1,6 +1,6 @@
 import { PropertyTemplate } from '../classes/propertyTemplate';
 
-export const propertyTemplates: PropertyTemplate[] = [
+export const PROPERTYTEMPLATES: PropertyTemplate[] = [
   {
     code: 'fullName',
     isVisible: true,
